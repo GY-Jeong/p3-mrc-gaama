@@ -8,7 +8,6 @@
 | :----------------------------------: | :----------------------------------: | :----------------------------------: | :-----------------------------------: | :------------------------------------: |
 | [github](https://github.com/ddoyoon) | [github](https://github.com/alinghi) | [github](https://github.com/sheikra) | [github](https://github.com/GY-Jeong) | [github](https://github.com/dndgml913) |
 
-
 ## 소개
 
 Open Domain Question & Answering (ODQA)
